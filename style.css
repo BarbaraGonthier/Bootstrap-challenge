@@ -13,3 +13,8 @@
 .bg-orange {
     background-color: orange;
 }
+
+.col-1{
+    padding-top: 8%;
+    width: 100%;
+}
